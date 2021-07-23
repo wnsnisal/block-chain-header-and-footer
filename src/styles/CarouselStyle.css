@@ -1,0 +1,16 @@
+.carouselHeading {
+  font-size: 4em;
+  font-weight: 700;
+}
+
+.carouselText {
+  font-size: 2em;
+}
+
+.carouselButton {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#008cff), to(#3f1ecf));
+  background-image: linear-gradient(#008cff, #3f1ecf);
+  color: white;
+  border: 0;
+}
+/*# sourceMappingURL=CarouselStyle.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EACf,SAAS,EAAE,GAAG;EACd,WAAW,EAAE,GAAG;CACjB;;AACD,AAAA,aAAa,CAAC;EACZ,SAAS,EAAE,GAAG;CACf;;AACD,AAAA,eAAe,CAAC;EACd,gBAAgB,EAAE,iCAAmD;EACrE,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,CAAC;CACV",
+    "sources": [
+        "CarouselStyle.scss"
+    ],
+    "names": [],
+    "file": "CarouselStyle.css"
+}
